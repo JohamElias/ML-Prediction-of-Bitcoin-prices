@@ -35,7 +35,7 @@ Tras entrenar los modelos se observó que los mejores modelos se obtenían con l
 
 
 Nota:
-Para nuestro proyecto se uso ChatGPT y se tomo referencia estas 2 fuentes:
+Para nuestro proyecto se utilizó ChatGPT y se tomo como referencia para el código estas fuentes:
 
 https://github.com/rifkyahmadsaputra/Prediction-Bitcoin-Price-with-Gated-Recurrent-Unit-RNN
 
