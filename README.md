@@ -24,6 +24,8 @@ Los parametros de entrenamiento pueden verificarse en los archivos ipynb.
 
 Tras entrenar los modelos se observó que los mejores modelos se obtenían con la data agrupada por hora.
 
+El conjunto de datos de prueba contiene los registros de los últimos 60 días.
+
 ### Resultados obtenidos con GRU y datos agrupados por día
 ![GRU_per_day](./images/gru_prediction_per_day.png)
 
